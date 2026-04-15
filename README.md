@@ -2,121 +2,6 @@
 
 ## 📖 **README Complet 
 
-Voici ce qui a été écrit dans le README:
-
-### ✨ **Sections Principales:**
-
-```
-1. 🏥 Titre & Badges
-   └─ Status, License, Python version
-
-2. 🎯 Objectif
-   └─ Description du projet
-   └─ Objectifs spécifiques
-
-3. ✨ Caractéristiques
-   └─ 4 Algorithmes ML
-   └─ Données & Prétraitement
-   └─ Évaluation Complète
-   └─ Visualisations
-   └─ Sauvegarde & Réutilisation
-
-4. 🔧 Installation
-   └─ Prérequis
-   └─ Étapes détaillées (4 étapes)
-   └─ Vérification
-
-5. 🚀 Utilisation Rapide
-   └─ 4 commandes essentielles
-   └─ Résultats attendus
-
-6. 📊 Résultats
-   └─ Tableau de performance
-   └─ Meilleur modèle
-   └─ Fichiers générés
-
-7. 🏗️ Architecture
-   └─ Diagramme du pipeline
-   └─ 8 étapes visuelles
-
-8. 📁 Structure du Projet
-   └─ Arborescence complète
-   └─ Description de chaque dossier
-
-9. 🤖 Modèles Disponibles
-   └─ SVM (avec avantages/désavantages)
-   └─ Logistic Regression
-   └─ Random Forest
-   └─ XGBoost
-
-10. 📈 Métriques d'Évaluation
-    └─ Définitions
-    └─ Formules
-    └─ Interprétation
-
-11. 🎨 Visualisations
-    └─ 4 types de graphiques
-    └─ Description
-
-12. 💡 Exemples d'Utilisation
-    └─ Pipeline complet
-    └─ Prédictions
-    └─ Hyperparameter tuning
-    └─ Cross-validation
-
-13. 🎓 Tutoriels & Guides
-    └─ Comment utiliser ses données
-    └─ Comment améliorer la performance
-    └─ Stratégies avancées
-
-14. 📚 Ressources
-    └─ Documentation officielle
-    └─ Datasets
-    └─ Tutoriels ML
-    └─ Articles pertinents
-
-15. 🤝 Contribution
-    └─ Guide pour contribuer
-
-16. 📝 Licence
-    └─ MIT License
-
-17. 👤 Auteur
-    └─ Nadine Omri
-
-18. 🙏 Remerciements
-    └─ Crédits
-
-19. 📞 Support
-    └─ Comment demander de l'aide
-
-20. 📊 Statistiques
-    └─ Lignes de code, modèles, datasets, etc.
-
-21. 🔄 Changelog
-    └─ Version history
-
-22. 🎯 Roadmap Future
-    └─ Fonctionnalités à venir
-```
-
----
-
-## 📊 **Statistiques du README:**
-
-- ✅ **410+ lignes** de documentation
-- ✅ **22 sections** principales
-- ✅ **10+ exemples** de code Python
-- ✅ **5 tableaux** explicatifs
-- ✅ **1 diagramme ASCII** du pipeline
-- ✅ **20+ emojis** pour meilleure lisibilité
-- ✅ **Table des matières** complète
-- ✅ **Badges** (Python, License, Status)
-
----
-
-## 🎯 **Contenu Détaillé:**
-
 ### **Section Installation:**
 ```bash
 # Étape 1: Cloner
@@ -171,7 +56,7 @@ Chaque avec:
 
 ---
 
-## 📂 **Fichiers Finaux du Projet:**
+## 📂 **Fichiers du Projet:**
 
 ```
 ✅ README.md               - Documentation complète (410 lignes)
